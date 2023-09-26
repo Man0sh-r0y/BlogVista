@@ -22,7 +22,6 @@ To get started with this project, follow these steps:
 1. Install the required dependencies using npm:
      ```bash
        npm install
-       npm install react-router-dom
      ```
      
 1. Start the development server:
