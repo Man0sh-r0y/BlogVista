@@ -1,6 +1,6 @@
 # Sample Blog Website
 
-This is a simple and elegant blogging platform built using React and the Context API. The website serves as a platform for reading and exploring a curated list of blog posts. It offers a smooth and intuitive browsing experience for anyone interested in reading the posted articles.
+This is a simple and elegant static blogging platform built using React and the Context API. The website serves as a platform for reading and exploring a curated list of blog posts. It offers a smooth and intuitive browsing experience for anyone interested in reading the posted articles.
 
 ## Live Demo
 [Go to the Website](https://blog-website-by-manash.vercel.app/)
